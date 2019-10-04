@@ -1,1 +1,0 @@
-{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family: Arial;\n    color: black;\n  }\n  .blue-text {\n    color: blue;\n  }\n  .pink-text {\n    color: pink;\n  }\n  .orange-text {\n    color: orange;\n  }\n  #orange-text {\n    color: orange;\n  }\n</style>\n<h1 id=\"orange-text\" class=\"blue-text pink-text orange-text\">Example</h1>\n"}
